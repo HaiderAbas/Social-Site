@@ -1,0 +1,13 @@
+.login{
+    width: 100vw;
+    height: 100vh;
+    background-color: #f0f2f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loginWrapper{
+    height: 70%;
+    width: 70%;
+    display: flex;
+}
